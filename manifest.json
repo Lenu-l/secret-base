@@ -2,8 +2,8 @@
   "name": "🌠 秘密基地",
   "short_name": "秘密基地",
   "description": "秘密基地 — 你的个人星空情绪记录空间",
-  "start_url": "/",
-  "scope": "/",
+  "start_url": "/secret-base/",
+  "scope": "/secret-base/",
   "display": "standalone",
   "display_override": ["standalone"],
   "orientation": "portrait-primary",
@@ -11,12 +11,12 @@
   "theme_color": "#8FA88F",
   "lang": "zh-CN",
   "icons": [
-    { "src": "/icons/icon-48.png",  "sizes": "48x48",   "type": "image/png", "purpose": "any" },
-    { "src": "/icons/icon-72.png",  "sizes": "72x72",   "type": "image/png", "purpose": "any" },
-    { "src": "/icons/icon-96.png",  "sizes": "96x96",   "type": "image/png", "purpose": "any" },
-    { "src": "/icons/icon-144.png", "sizes": "144x144", "type": "image/png", "purpose": "any" },
-    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
-    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+    { "src": "/secret-base/icons/icon-48.png",  "sizes": "48x48",   "type": "image/png", "purpose": "any" },
+    { "src": "/secret-base/icons/icon-72.png",  "sizes": "72x72",   "type": "image/png", "purpose": "any" },
+    { "src": "/secret-base/icons/icon-96.png",  "sizes": "96x96",   "type": "image/png", "purpose": "any" },
+    { "src": "/secret-base/icons/icon-144.png", "sizes": "144x144", "type": "image/png", "purpose": "any" },
+    { "src": "/secret-base/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/secret-base/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
   ],
   "categories": ["lifestyle"],
   "prefer_related_applications": false
